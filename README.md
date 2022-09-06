@@ -1,4 +1,6 @@
-hello, this is my frist ReadyMe
+**hello, this is my frist ReadyMe**
+
+be forgiving 🙂
 
 
 
