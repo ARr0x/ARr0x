@@ -7,7 +7,7 @@ be forgiving 🙂
 
 une magnifique image :
 
-![alt texte](https://www.sblanc.com/wp-content/uploads/2008/10/20060926_102744_Phoque_Weddell-Samuel-Blanc.jpg https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![https://www.sblanc.com/wp-content/uploads/2008/10/20060926_102744_Phoque_Weddell-Samuel-Blanc.jpg](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
